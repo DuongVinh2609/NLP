@@ -86,10 +86,10 @@ This project presents a machine learning-based approach for analyzing student fe
 
 ---
 
-## 👥 Team Members
+## 👥 Authors
 
-- Nguyễn Thành Vinh — 21020710  
-- Phạm Thành Vinh — 20021477
+- Nguyễn Thành Vinh  
+- Dương Nguyễn Gia Vinh
 
 University of Engineering and Technology – VNU Hanoi
 
@@ -98,8 +98,7 @@ University of Engineering and Technology – VNU Hanoi
 ## 📚 References
 
 - Pedregosa et al., “Scikit-learn: Machine Learning in Python”, JMLR 12, 2011  
-- UIT-VSFC: Vietnamese Students’ Feedback Corpus  
-- [GitHub: Vietnamese Sentiment Analysis - tuanpham1989](https://github.com/tuanpham1989/sentiment_analysis_nal)  
+- UIT-VSFC: Vietnamese Students’ Feedback Corpus   
 - Nguyen et al., “Deep Learning vs Traditional Classifiers on Vietnamese Feedback”, NICS 2018  
 - Nguyen et al., “UIT-VSFC Corpus for Sentiment Analysis”, KSE 2018
 
